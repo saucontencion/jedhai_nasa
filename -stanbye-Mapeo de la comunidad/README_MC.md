@@ -3,10 +3,10 @@
 https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/community-mapping/ 
 
 ## link ppt 
-https://docs.google.com/presentation/d/18bBOzTHlu5mHno86b0MWxnzHNKs3afHQ_5RfN5xVZUQ/edit?usp=sharing
+
 
 ## link docs
-https://docs.google.com/document/d/1qAZ6OyJigeBFpTsion0nylN2vZTZ0eMRdHp3Vwt0WNU/edit?usp=sharing
+
 
 
 ## pilares
